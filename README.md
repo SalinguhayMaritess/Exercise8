@@ -1,1 +1,1 @@
-In this exercise, different font size and text styles will be shown.
+In this exercise, different font sizes and styles will be shown.
